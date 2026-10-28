@@ -1,16 +1,30 @@
-## Hi there 👋
+Hi, I'm Karthikeyan 👋
 
-<!--
-**Karthi-Keyan-04/Karthi-Keyan-04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Cloud Engineer | AWS | Linux | Python | MySQL
 
-Here are some ideas to get you started:
+👨‍💻 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm working in the IT industry as a Cloud Engineer, with an interest in cloud computing, infrastructure, and automation. I'm building my technical knowledge in AWS and Linux while continuously learning and improving my skills.
+
+🛠️ Technical Skills
+
+ Cloud: AWS
+ Operating Systems: Linux, Ubuntu
+ Programming: Python
+ Database: MySQL
+ Version Control: Git, GitHub
+
+📚 Currently Learning
+
+ AWS Cloud Infrastructure
+ Amazon EC2
+ Linux Administration
+ Python Scripting
+ DevOps Fundamentals
+
+🎯 Career Objective
+
+To strengthen my cloud engineering skills and gain hands-on experience in AWS, Linux administration, cloud infrastructure, and automation.
+
+🔗 Connect With Me
+GitHub: https://github.com/Karthi-Keyan-04
