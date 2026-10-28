@@ -8,19 +8,19 @@ I'm working in the IT industry as a Cloud Engineer, with an interest in cloud co
 
 🛠️ Technical Skills
 
- Cloud: AWS
- Operating Systems: Linux, Ubuntu
- Programming: Python
- Database: MySQL
+ Cloud: AWS,
+ Operating Systems: Linux, Ubuntu,
+ Programming: Python,
+ Database: MySQL,
  Version Control: Git, GitHub
 
 📚 Currently Learning
 
- AWS Cloud Infrastructure
- Amazon EC2
- Linux Administration
- Python Scripting
- DevOps Fundamentals
+ AWS Cloud Infrastructure,
+ Amazon EC2,
+ Linux Administration,
+ Python Scripting,
+ DevOps Fundamentals,
 
 🎯 Career Objective
 
